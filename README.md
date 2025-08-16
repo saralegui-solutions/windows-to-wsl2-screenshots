@@ -22,7 +22,7 @@ This tool solves the frustrating workflow of getting Windows screenshots into Cl
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/windows-to-wsl2-screenshots.git
+git clone https://github.com/saralegui-solutions/windows-to-wsl2-screenshots.git
 cd windows-to-wsl2-screenshots
 
 # Run the automated setup
@@ -74,7 +74,7 @@ If you prefer manual setup over the automated script:
 
 ```bash
 # Clone and enter directory
-git clone https://github.com/yourusername/windows-to-wsl2-screenshots.git
+git clone https://github.com/saralegui-solutions/windows-to-wsl2-screenshots.git
 cd windows-to-wsl2-screenshots
 
 # Source the functions
@@ -127,6 +127,6 @@ MIT License - feel free to use this in your own projects!
 
 ## 🙏 Credits
 
-Created with ❤️ for the Claude Code community
+Created with ❤️ for the Claude Code community by [@saralegui-solutions](https://github.com/saralegui-solutions)
 
 Special thanks to the original [jddev273/windows-to-wsl2-screenshots](https://github.com/jddev273/windows-to-wsl2-screenshots) project by Johann Döwa for inspiration.
